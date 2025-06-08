@@ -1,0 +1,44 @@
+{
+  "brandList": {
+    "title": "برندها",
+    "cart": "سبد خرید"
+  },
+  "cartScreen": {
+    "title": "سبد خرید شما",
+    "total": "مجموع: ${{totalPrice}}",
+    "checkout": "پرداخت",
+    "clearCart": "پاک کردن سبد",
+    "emptyCart": "سبد خرید شما خالی است."
+  },
+  "checkoutScreen": {
+    "title": "پرداخت",
+    "fullName": "نام کامل",
+    "shippingAddress": "آدرس حمل و نقل",
+    "email": "ایمیل",
+    "phoneNumber": "شماره تلفن",
+    "paymentDetails": "جزئیات پرداخت (پیاده سازی نشده)",
+    "placeOrder": "ثبت سفارش (شبیه سازی شده)",
+    "orderPlaced": "سفارش ثبت شد (شبیه سازی شده)!",
+    "validationError": "لطفا تمام فیلدها را به درستی پر کنید."
+  },
+  "webViewScreen": {
+    "cart": "سبد خرید"
+  },
+  "webViewScreen": {
+    "cart": "سبد خرید"
+  },
+  "theme": {
+    "toggle": "تغییر پوسته"
+  },
+  "general": {
+    "appName": "فشن هاب"
+  },
+  "navigation": {
+    "back": "بازگشت"
+  },
+  "cartListItem": {
+    "brand": "برند",
+    "price": "قیمت",
+    "remove": "حذف"
+  }
+}

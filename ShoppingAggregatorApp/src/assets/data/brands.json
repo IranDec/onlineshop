@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "ZARA",
+    "logoUrl": "https://static.dezeen.com/uploads/2019/01/zara-logo-sq.jpg",
+    "websiteUrl": "https://www.zara.com"
+  },
+  {
+    "id": "2",
+    "name": "H&M",
+    "logoUrl": "https://1000logos.net/wp-content/uploads/2017/02/Hennes-Mauritz-Logo.png",
+    "websiteUrl": "https://www.hm.com"
+  },
+  {
+    "id": "3",
+    "name": "Nike",
+    "logoUrl": "https://static.nike.com/a/images/f_jpg,q_auto:eco/61b4738b-e1e1-4786-8f6c-26aa0008e80b/swoosh-logo-black.png",
+    "websiteUrl": "https://www.nike.com"
+  },
+  {
+    "id": "4",
+    "name": "Adidas",
+    "logoUrl": "https://1000logos.net/wp-content/uploads/2016/10/Adidas-Logo.png",
+    "websiteUrl": "https://www.adidas.com"
+  },
+  {
+    "id": "5",
+    "name": "ASOS",
+    "logoUrl": "https://1000logos.net/wp-content/uploads/2020/07/Asos-Logo.png",
+    "websiteUrl": "https://www.asos.com"
+  }
+]
