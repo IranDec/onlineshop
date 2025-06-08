@@ -1,0 +1,44 @@
+{
+  "brandList": {
+    "title": "Brands",
+    "cart": "Cart"
+  },
+  "cartScreen": {
+    "title": "Your Cart",
+    "total": "Total: ${{totalPrice}}",
+    "checkout": "Checkout",
+    "clearCart": "Clear Cart",
+    "emptyCart": "Your cart is empty."
+  },
+  "checkoutScreen": {
+    "title": "Checkout",
+    "fullName": "Full Name",
+    "shippingAddress": "Shipping Address",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "paymentDetails": "Payment Details (Not Implemented)",
+    "placeOrder": "Place Order (Simulated)",
+    "orderPlaced": "Order Placed (Simulated)!",
+    "validationError": "Please fill all fields correctly."
+  },
+  "webViewScreen": {
+    "cart": "Cart"
+  },
+  "webViewScreen": {
+    "cart": "Cart"
+  },
+  "theme": {
+    "toggle": "Toggle Theme"
+  },
+  "general": {
+      "appName": "Fashion Hub"
+  },
+  "navigation": {
+    "back": "Back"
+  },
+  "cartListItem": {
+    "brand": "Brand",
+    "price": "Price",
+    "remove": "Remove"
+  }
+}
